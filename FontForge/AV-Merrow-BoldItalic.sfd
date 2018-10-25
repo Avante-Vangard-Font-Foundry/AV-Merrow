@@ -1,9 +1,9 @@
 SplineFontDB: 3.0
-FontName: AV-Overlock-BoldItalic
-FullName: AV Overlock Bold Italic
-FamilyName: AV Overlock
-Weight: Bold Italic
-Copyright: Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name "Overlock".
+FontName: AV-Merrow-BoldItalic
+FullName: AV Merrow Bold Italic
+FamilyName: AV-Merrow
+Weight: Bold
+Copyright: Copyright 2018,  Avante Vangard Type Foundry (https://github.com/Avante-Vangard). 
 Version: 2018.001
 ItalicAngle: 0
 UnderlinePosition: -133
@@ -22,13 +22,13 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1324052797
-ModificationTime: 1539372532
+ModificationTime: 1540505414
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 8 6 4 0 0 9 0 2
+Panose: 2 11 8 3 4 0 3 9 0 4
 OS2TypoAscent: 966
 OS2TypoAOffset: 0
 OS2TypoDescent: -254
@@ -52,8 +52,8 @@ OS2SupXOff: 0
 OS2SupYOff: 477
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
-OS2CapHeight: 257
-OS2XHeight: 77
+OS2CapHeight: 664
+OS2XHeight: 474
 OS2Vendor: 'pyrs'
 OS2CodePages: 20000001.00000000
 OS2UnicodeRanges: 800000af.4000204b.00000000.00000000
@@ -66,7 +66,8 @@ Lookup: 1 0 0 "'onum' Oldstyle Figures lookup 5" { "'onum' Oldstyle Figures look
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "Bold Italic" "2018.001;UKWN;AV-Overlock-BoldItalic" "" "Version 2018.001" "" "Overlock is a trademark of Dario Manuel Muhafara." "Dario Manuel Muhafara" "Dario Muhafara" "" "www.tipo.net.ar" "www.tipo.net.ar" "This Font Software is licensed under the SIL Open Font License,+AA0A-Version 1.1. This license is available with a FAQ at:+AA0A-http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "Bold Italic" "" "" "Version 2018.001" "" "" "Avante Vangard Type Foundry" "Michael Hart" "" "https://www.github.com/Avante-Vangard" "https://www.bethelight.info" "Copyright (c) 2018, Michael Hart (http://github.com/Avante-Vangard). with Reserved Font Name +ACIA-Avante Vangard Merrow+ACIA. +AAoACgAK-Most glyphs from  Overlock (http://www.tipo.net.ar) Overlock is a trademark of Dario Manuel Muhafara. Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name +ACIA-Overlock+ACIA.+AAoACgAK-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
+DesignSize: 100
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -82,6 +83,7 @@ BlueScale 5 0.025
 BlueShift 2 17
 ForceBold 4 true
 EndPrivate
+TeXData: 1 10485760 0 199229 99614 66409 507511 1048576 66409 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 BeginChars: 65678 420
 
 StartChar: .notdef
@@ -490,7 +492,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" parenleft.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" parenleft.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" parenleft.sc
 EndChar
 
@@ -523,7 +524,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" parenright.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" parenright.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" parenright.sc
 EndChar
 
@@ -605,7 +605,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" plus.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" plus.superior
 EndChar
 
 StartChar: comma
@@ -662,7 +661,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" hyphen.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" hyphen.superior
 EndChar
 
 StartChar: period
@@ -748,7 +746,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" zero.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" zero.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" zero.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" zero.sc
 EndChar
 
@@ -788,7 +785,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" one.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" one.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" one.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" one.sc
 EndChar
 
@@ -840,7 +836,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" two.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" two.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" two.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" two.sc
 EndChar
 
@@ -887,7 +882,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" three.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" three.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" three.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" three.sc
 EndChar
 
@@ -938,7 +932,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" four.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" four.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" four.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" four.sc
 EndChar
 
@@ -980,7 +973,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" five.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" five.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" five.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" five.sc
 EndChar
 
@@ -1023,7 +1015,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" six.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" six.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" six.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" six.sc
 EndChar
 
@@ -1058,7 +1049,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" seven.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" seven.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" seven.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" seven.sc
 EndChar
 
@@ -1107,7 +1097,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" eight.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" eight.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" eight.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" eight.sc
 EndChar
 
@@ -1149,7 +1138,6 @@ EndSplineSet
 Validated: 1
 Substitution2: "'onum' Oldstyle Figures lookup 5-1" nine.oldstyle
 Substitution2: "'sups' Superscript lookup 4-1" nine.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" nine.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" nine.sc
 EndChar
 
@@ -2522,7 +2510,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" bracketleft.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" bracketleft.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" bracketleft.sc
 EndChar
 
@@ -2573,7 +2560,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" bracketright.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" bracketright.superior
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" bracketright.sc
 EndChar
 
@@ -2686,7 +2672,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" a.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" a.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" a.sc
 EndChar
 
@@ -2729,7 +2714,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" b.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" b.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" b.sc
 EndChar
 
@@ -2767,7 +2751,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 188 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 186 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" c.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" c.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" c.sc
 EndChar
 
@@ -2815,7 +2798,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 172 85 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" d.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" d.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" d.sc
 EndChar
 
@@ -2865,7 +2847,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 275 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 274 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 272 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 271 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 270 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 269 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 268 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 258 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 257 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 256 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 255 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 254 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" e.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" e.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" e.sc
 EndChar
 
@@ -2907,7 +2888,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 226 60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 189 65 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 171 135 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 100 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 165 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 107 60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 103 60 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 85 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 71 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 67 65 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 90 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 11 120 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 3 70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 1 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" f.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" f.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" f.sc
 EndChar
 
@@ -2956,7 +2936,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 188 70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 186 70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 70 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 50 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" g.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" g.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" g.sc
 EndChar
 
@@ -3004,7 +2983,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" h.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" h.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" h.sc
 EndChar
 
@@ -3046,7 +3024,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 32 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" i.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" i.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" i.sc
 EndChar
 
@@ -3089,7 +3066,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" j.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" j.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" j.sc
 EndChar
 
@@ -3141,7 +3117,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" k.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" k.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" k.sc
 EndChar
 
@@ -3173,7 +3148,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 172 85 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 32 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 2 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" l.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" l.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" l.sc
 EndChar
 
@@ -3232,7 +3206,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" m.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" m.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" m.sc
 EndChar
 
@@ -3278,7 +3251,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" n.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" n.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" n.sc
 EndChar
 
@@ -3313,7 +3285,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" o.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" o.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" o.sc
 EndChar
 
@@ -3355,7 +3326,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" p.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" p.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" p.sc
 EndChar
 
@@ -3397,7 +3367,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 276 30 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" q.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" q.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" q.sc
 EndChar
 
@@ -3434,7 +3403,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 267 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 266 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 259 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 220 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 195 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 193 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 189 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 181 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 179 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 178 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 177 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 176 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 175 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 172 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 171 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 170 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 169 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 168 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 167 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 166 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 165 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 164 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 163 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 162 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 161 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 160 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 159 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 158 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 157 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 84 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 82 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 80 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 74 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 72 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 70 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 69 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 68 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 66 -25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 28 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 15 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" r.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" r.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" r.sc
 EndChar
 
@@ -3480,7 +3448,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" s.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" s.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" s.sc
 EndChar
 
@@ -3522,7 +3489,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" t.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" t.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" t.sc
 EndChar
 
@@ -3573,7 +3539,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" u.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" u.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" u.sc
 EndChar
 
@@ -3612,7 +3577,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 27 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" v.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" v.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" v.sc
 EndChar
 
@@ -3662,7 +3626,6 @@ SplineSet
 EndSplineSet
 Validated: 1
 Substitution2: "'sups' Superscript lookup 4-1" w.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" w.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" w.sc
 EndChar
 
@@ -3717,7 +3680,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 28 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 15 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" x.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" x.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" x.sc
 EndChar
 
@@ -3755,7 +3717,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 25 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 13 -20 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" y.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" y.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" y.sc
 EndChar
 
@@ -3795,7 +3756,6 @@ EndSplineSet
 Validated: 1
 Kerns2: 66 -10 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'sups' Superscript lookup 4-1" z.superior
-Substitution2: "'sups' Superscript lookup 0 subtable" z.superior
 Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" z.sc
 EndChar
 

@@ -1,10 +1,10 @@
 SplineFontDB: 3.0
-FontName: AV-Overlock-Regular
-FullName: AV Overlock Regular
-FamilyName: AV Overlock
+FontName: AV-Merrow-Regular
+FullName: AV Merrow Regular
+FamilyName: AV-Merrow
 Weight: Regular
-Copyright: Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name "Overlock".\n\n"AV Overlock" Copyright 2018, Michael Hart (http://bethelight.info). 
-FontLog: "2018-10 Mapped Opentype smcp, c2sc. Generated sups for (0-9,a-z)"
+Copyright: Copyright 2018,  Avante Vangard Type Foundry (https://github.com/Avante-Vangard). \n\n
+FontLog: "2018-10 Mapped Opentype smcp, c2sc. Generated sups for (0-9,a-z)+AAoACgAA-Rename to Merrow"
 Version: 2018.001
 ItalicAngle: 0
 UnderlinePosition: -133
@@ -23,13 +23,13 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1324052811
-ModificationTime: 1539373050
+ModificationTime: 1540504070
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 2 0 6 6 4 0 0 2 0 2
+Panose: 2 11 6 3 4 0 3 2 2 4
 OS2TypoAscent: 966
 OS2TypoAOffset: 0
 OS2TypoDescent: -254
@@ -53,8 +53,8 @@ OS2SupXOff: 0
 OS2SupYOff: 477
 OS2StrikeYSize: 50
 OS2StrikeYPos: 250
-OS2CapHeight: 154
-OS2XHeight: 125
+OS2CapHeight: 663
+OS2XHeight: 475
 OS2FamilyClass: 1295
 OS2Vendor: 'pyrs'
 OS2CodePages: 20000001.00000000
@@ -68,7 +68,8 @@ Lookup: 1 0 0 "'onum' Oldstyle Figure forms" { "'onum' Oldstyle Figures Lookup 0
 Lookup: 258 0 0 "'kern' Horizontal Kerning in Latin lookup 0" { "'kern' Horizontal Kerning in Latin lookup 0 subtable" [150,15,0] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "" "" "" "" "" "Version 2018.001" "" "Overlock is a trademark of Dario Manuel Muhafara." "Dario Manuel Muhafara" "Dario Muhafara" "" "www.tipo.net.ar" "www.tipo.net.ar" "This Font Software is licensed under the SIL Open Font License,+AA0A-Version 1.1. This license is available with a FAQ at:+AA0A-http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 2018.001" "" "" "Avante Vangard Type Foundry" "Michael Hart" "" "https://www.github.com/Avante-Vangard" "www.bethelight.info" "Copyright (c) 2018, Michael Hart (http://github.com/Avante-Vangard). with Reserved Font Name +ACIA-Avante Vangard Merrow+ACIA. +AAoACgAK-Most glyphs from  Overlock (http://www.tipo.net.ar) Overlock is a trademark of Dario Manuel Muhafara. Copyright (c) 2011, Dario Manuel Muhafara (http://www.tipo.net.ar), with Reserved Font Name +ACIA-Overlock+ACIA.+AAoACgAK-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL" "" "AV-Merrow" "Regular" "AV-Merrow"
+DesignSize: 100
 Encoding: UnicodeBmp
 Compacted: 1
 UnicodeInterp: none
@@ -76,15 +77,15 @@ NameList: AGL For New Fonts
 DisplaySize: -36
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 31 31 12
+WinInfo: 0 31 12
 BeginPrivate: 4
 BlueValues 32 [-10 -2 475 475 666 673 715 743]
 OtherBlues 11 [-253 -252]
 BlueScale 9 0.0333333
 BlueShift 2 18
 EndPrivate
-TeXData: 1 0 0 241172 120586 80390 490735 1048576 80390 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 65589 407
+TeXData: 1 10485760 0 241172 120586 80390 490735 1048576 80390 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 65589 406
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1305,7 +1306,7 @@ SplineSet
  465.333984375 49.66796875 442.333984375 113.66796875 409.000976562 209.000976562 c 1
 EndSplineSet
 Validated: 1
-Kerns2: 15 44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -66 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -66 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 212 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 330 66 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Kerns2: 15 44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 16 40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 27 44 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 53 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 55 -66 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 58 -66 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 59 27 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 87 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 90 -33 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 212 -40 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 329 66 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" Asmall
 EndChar
 
@@ -4740,7 +4741,7 @@ SplineSet
  169.166015625 469.00390625 183.333007812 475.00390625 200 475.00390625 c 0
 EndSplineSet
 Validated: 1
-Kerns2: 342 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 77 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 77 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
+Kerns2: 341 20 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 75 77 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 43 77 "'kern' Horizontal Kerning in Latin lookup 0 subtable"
 Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" questiondownsmall
 EndChar
 
@@ -12965,111 +12966,8 @@ EndSplineSet
 Validated: 1
 EndChar
 
-StartChar: apple
-Encoding: 63743 63743 320
-Width: 816
-GlyphClass: 2
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-526 295 m 1
- 528.666992188 271 529.995117188 255.997070312 529.995117188 249.997070312 c 1
- 570.662109375 237.997070312 603.329101562 230.6640625 627.99609375 227.997070312 c 0
- 652.663085938 225.330078125 671.99609375 217.497070312 685.99609375 204.497070312 c 0
- 699.99609375 191.497070312 709.329101562 176.1640625 713.99609375 158.497070312 c 0
- 718.663085938 140.830078125 723.49609375 120.330078125 728.49609375 96.9970703125 c 0
- 733.49609375 73.6640625 735.99609375 43.3310546875 735.99609375 5.998046875 c 0
- 735.99609375 1.3310546875 733.663085938 -1.001953125 728.99609375 -1.001953125 c 2
- 702.99609375 -1.001953125 l 2
- 698.99609375 -1.001953125 696.99609375 1.1650390625 696.99609375 5.498046875 c 0
- 696.99609375 9.8310546875 699.329101562 11.998046875 703.99609375 11.998046875 c 2
- 722.99609375 11.998046875 l 1
- 722.99609375 43.3310546875 716.99609375 84.998046875 704.99609375 136.998046875 c 2
- 699.99609375 158.998046875 l 2
- 697.329101562 172.331054688 689.99609375 184.331054688 677.99609375 194.998046875 c 0
- 665.99609375 205.665039062 647.99609375 212.165039062 623.99609375 214.498046875 c 0
- 599.99609375 216.831054688 576.49609375 221.831054688 553.49609375 229.498046875 c 0
- 530.49609375 237.165039062 518.663085938 241.665039062 517.99609375 242.998046875 c 0
- 517.329101562 246.998046875 516.49609375 255.665039062 515.49609375 268.998046875 c 0
- 514.49609375 282.331054688 513.663085938 291.331054688 512.99609375 295.998046875 c 1
- 494.99609375 295.998046875 477.329101562 300.331054688 459.99609375 308.998046875 c 0
- 457.99609375 309.665039062 456.99609375 311.998046875 456.99609375 315.998046875 c 0
- 456.99609375 319.998046875 459.329101562 321.998046875 463.99609375 321.998046875 c 0
- 464.663085938 321.998046875 470.49609375 319.831054688 481.49609375 315.498046875 c 0
- 492.49609375 311.165039062 505.329101562 308.998046875 519.99609375 308.998046875 c 0
- 534.663085938 308.998046875 543.830078125 310.998046875 547.497070312 314.998046875 c 0
- 551.1640625 318.998046875 555.831054688 339.165039062 561.498046875 375.498046875 c 0
- 567.165039062 411.831054688 572.33203125 434.998046875 576.999023438 444.998046875 c 0
- 579.666015625 453.665039062 580.999023438 474.33203125 580.999023438 506.999023438 c 0
- 580.999023438 539.666015625 579.666015625 562.666015625 576.999023438 575.999023438 c 0
- 564.999023438 640.666015625 521.666015625 672.999023438 446.999023438 672.999023438 c 0
- 390.999023438 672.999023438 347.33203125 658.83203125 315.999023438 630.499023438 c 0
- 284.666015625 602.166015625 268.999023438 564.499023438 268.999023438 517.499023438 c 0
- 268.999023438 470.499023438 276.499023438 432.166015625 291.499023438 402.499023438 c 0
- 306.499023438 372.83203125 326.999023438 354.665039062 352.999023438 347.998046875 c 0
- 356.999023438 346.665039062 358.999023438 343.998046875 358.999023438 339.998046875 c 0
- 358.999023438 335.998046875 357.999023438 318.498046875 355.999023438 287.498046875 c 0
- 353.999023438 256.498046875 352.499023438 240.331054688 351.499023438 238.998046875 c 0
- 350.499023438 237.665039062 349.33203125 236.998046875 347.999023438 236.998046875 c 0
- 330.666015625 236.998046875 302.999023438 229.665039062 264.999023438 214.998046875 c 0
- 226.999023438 200.331054688 200.666015625 191.998046875 185.999023438 189.998046875 c 0
- 148.666015625 184.665039062 125.999023438 166.665039062 117.999023438 135.998046875 c 2
- 110.999023438 106.998046875 l 2
- 101.666015625 66.998046875 95.9990234375 35.3310546875 93.9990234375 11.998046875 c 1
- 235.999023438 11.998046875 l 2
- 240.666015625 11.998046875 242.999023438 9.8310546875 242.999023438 5.498046875 c 0
- 242.999023438 1.1650390625 240.666015625 -1.001953125 235.999023438 -1.001953125 c 2
- 86.9990234375 -1.001953125 l 2
- 82.33203125 -1.001953125 79.9990234375 1.3310546875 79.9990234375 5.998046875 c 0
- 81.9990234375 33.998046875 87.9990234375 67.998046875 97.9990234375 107.998046875 c 2
- 105.999023438 137.998046875 l 2
- 108.666015625 153.998046875 117.166015625 168.498046875 131.499023438 181.498046875 c 0
- 145.83203125 194.498046875 161.999023438 202.165039062 179.999023438 204.498046875 c 0
- 197.999023438 206.831054688 225.499023438 214.831054688 262.499023438 228.498046875 c 0
- 299.499023438 242.165039062 325.666015625 249.33203125 340.999023438 249.999023438 c 1
- 343.666015625 287.33203125 345.333007812 315.999023438 346 335.999023438 c 1
- 317.333007812 345.33203125 295.166015625 365.499023438 279.499023438 396.499023438 c 0
- 263.83203125 427.499023438 255.999023438 468.33203125 255.999023438 518.999023438 c 0
- 255.999023438 569.666015625 272.666015625 610.499023438 305.999023438 641.499023438 c 0
- 339.33203125 672.499023438 386.33203125 687.999023438 446.999023438 687.999023438 c 0
- 527.666015625 687.999023438 575.999023438 651.666015625 591.999023438 578.999023438 c 0
- 593.999023438 566.999023438 594.999023438 545.33203125 594.999023438 513.999023438 c 0
- 594.999023438 482.666015625 593.33203125 457.999023438 589.999023438 439.999023438 c 0
- 581.33203125 418.666015625 575.33203125 393.166015625 571.999023438 363.499023438 c 0
- 568.666015625 333.83203125 563.833007812 315.33203125 557.5 307.999023438 c 0
- 551.166992188 300.666015625 540.666992188 296.333007812 526 295 c 1
-506.995117188 562.997070312 m 1
- 511.995117188 557.997070312 l 1
- 493.995117188 529.997070312 l 1
- 480.995117188 540.997070312 l 1
- 506.995117188 562.997070312 l 1
-514.995117188 557.997070312 m 1
- 519.995117188 562.997070312 l 1
- 545.995117188 540.997070312 l 1
- 532.995117188 529.997070312 l 1
- 514.995117188 557.997070312 l 1
-516.995117188 573.997070312 m 1
- 509.995117188 573.997070312 l 1
- 504.995117188 604.997070312 l 1
- 521.995117188 604.997070312 l 1
- 516.995117188 573.997070312 l 1
-508.995117188 571.997070312 m 1
- 505.995117188 564.997070312 l 1
- 474.995117188 571.997070312 l 1
- 480.995117188 586.997070312 l 1
- 508.995117188 571.997070312 l 1
-519.995117188 564.997070312 m 1
- 517.995117188 571.997070312 l 1
- 545.995117188 586.997070312 l 1
- 551.995117188 571.997070312 l 1
- 519.995117188 564.997070312 l 1
-EndSplineSet
-Validated: 1
-EndChar
-
 StartChar: ff
-Encoding: 64256 64256 321
+Encoding: 64256 64256 320
 Width: 611
 GlyphClass: 2
 Flags: W
@@ -13124,7 +13022,7 @@ Ligature2: "'liga' Standard Ligatures lookup 4-1" f f
 EndChar
 
 StartChar: fi
-Encoding: 64257 64257 322
+Encoding: 64257 64257 321
 Width: 497
 GlyphClass: 2
 Flags: W
@@ -13173,7 +13071,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" f
 EndChar
 
 StartChar: fl
-Encoding: 64258 64258 323
+Encoding: 64258 64258 322
 Width: 531
 GlyphClass: 2
 Flags: W
@@ -13225,7 +13123,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" f
 EndChar
 
 StartChar: ffi
-Encoding: 64259 64259 324
+Encoding: 64259 64259 323
 Width: 805
 GlyphClass: 2
 Flags: W
@@ -13290,7 +13188,7 @@ Ligature2: "'liga' Standard Ligatures lookup 4-1" f f i
 EndChar
 
 StartChar: ffl
-Encoding: 64260 64260 325
+Encoding: 64260 64260 324
 Width: 839
 GlyphClass: 2
 Flags: W
@@ -13358,7 +13256,7 @@ Ligature2: "'liga' Standard Ligatures lookup 4-1" f f l
 EndChar
 
 StartChar: st
-Encoding: 64262 64262 326
+Encoding: 64262 64262 325
 Width: 771
 GlyphClass: 2
 Flags: W
@@ -13433,7 +13331,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 5-1" s t
 EndChar
 
 StartChar: .null
-Encoding: 65537 -1 327
+Encoding: 65537 -1 326
 Width: 0
 GlyphClass: 2
 Flags: W
@@ -13443,7 +13341,7 @@ Validated: 1
 EndChar
 
 StartChar: nonmarkingreturn
-Encoding: 65538 -1 328
+Encoding: 65538 -1 327
 Width: 333
 GlyphClass: 2
 Flags: W
@@ -13453,7 +13351,7 @@ Validated: 1
 EndChar
 
 StartChar: Eurooldstyle
-Encoding: 65539 -1 329
+Encoding: 65539 -1 328
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -13503,7 +13401,7 @@ Kerns2: 255 38 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 251 38 "'k
 EndChar
 
 StartChar: J_alt
-Encoding: 65540 -1 330
+Encoding: 65540 -1 329
 Width: 285
 GlyphClass: 2
 Flags: W
@@ -13532,7 +13430,7 @@ Substitution2: "'c2sc' Capitals to Small Capitals in Latin lookup 0 subtable" Js
 EndChar
 
 StartChar: a_alt
-Encoding: 65541 -1 331
+Encoding: 65541 -1 330
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13567,7 +13465,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: aacute_alt
-Encoding: 65542 -1 332
+Encoding: 65542 -1 331
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13611,7 +13509,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: acircumflex_alt
-Encoding: 65543 -1 333
+Encoding: 65543 -1 332
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13661,7 +13559,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: adieresis_alt
-Encoding: 65544 -1 334
+Encoding: 65544 -1 333
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13714,7 +13612,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: agrave_alt
-Encoding: 65545 -1 335
+Encoding: 65545 -1 334
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13758,7 +13656,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: aring_alt
-Encoding: 65546 -1 336
+Encoding: 65546 -1 335
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13811,7 +13709,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: atilde_alt
-Encoding: 65547 -1 337
+Encoding: 65547 -1 336
 Width: 524
 GlyphClass: 2
 Flags: W
@@ -13859,7 +13757,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" A
 EndChar
 
 StartChar: ch
-Encoding: 65548 -1 338
+Encoding: 65548 -1 337
 Width: 949
 GlyphClass: 2
 Flags: W
@@ -13918,7 +13816,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 5-1" c h
 EndChar
 
 StartChar: ct
-Encoding: 65549 -1 339
+Encoding: 65549 -1 338
 Width: 800
 GlyphClass: 2
 Flags: W
@@ -13982,7 +13880,7 @@ Ligature2: "'dlig' Discretionary Ligatures lookup 5-1" c t
 EndChar
 
 StartChar: florinoldstyle
-Encoding: 65550 -1 340
+Encoding: 65550 -1 339
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -14026,7 +13924,7 @@ Kerns2: 256 55 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 255 55 "'k
 EndChar
 
 StartChar: g_alt
-Encoding: 65551 -1 341
+Encoding: 65551 -1 340
 Width: 517
 GlyphClass: 2
 Flags: W
@@ -14066,7 +13964,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" G
 EndChar
 
 StartChar: j_alt
-Encoding: 65552 -1 342
+Encoding: 65552 -1 341
 Width: 225
 GlyphClass: 2
 Flags: W
@@ -14103,7 +14001,7 @@ Substitution2: "'smcp' Lowercase to Small Capitals in Latin lookup 0 subtable" J
 EndChar
 
 StartChar: percentoldstyle
-Encoding: 65553 -1 343
+Encoding: 65553 -1 342
 Width: 794
 GlyphClass: 2
 Flags: W
@@ -14161,7 +14059,7 @@ Validated: 1
 EndChar
 
 StartChar: perthousandoldstyle
-Encoding: 65554 -1 344
+Encoding: 65554 -1 343
 Width: 1124
 GlyphClass: 2
 Flags: W
@@ -14237,7 +14135,7 @@ Validated: 1
 EndChar
 
 StartChar: sterlingoldstyle
-Encoding: 65555 -1 345
+Encoding: 65555 -1 344
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -14287,7 +14185,7 @@ Validated: 1
 EndChar
 
 StartChar: yenoldstyle
-Encoding: 65556 -1 346
+Encoding: 65556 -1 345
 Width: 535
 GlyphClass: 2
 Flags: W
@@ -14341,7 +14239,7 @@ Kerns2: 256 22 "'kern' Horizontal Kerning in Latin lookup 0 subtable" 255 66 "'k
 EndChar
 
 StartChar: fismall
-Encoding: 65557 -1 347
+Encoding: 65557 -1 346
 Width: 669
 GlyphClass: 2
 Flags: W
@@ -14389,7 +14287,7 @@ Validated: 1
 EndChar
 
 StartChar: flsmall
-Encoding: 65558 -1 348
+Encoding: 65558 -1 347
 Width: 788
 GlyphClass: 2
 Flags: W
@@ -14442,7 +14340,7 @@ Validated: 1
 EndChar
 
 StartChar: zero.superior
-Encoding: 8304 8304 349
+Encoding: 8304 8304 348
 Width: 369
 VWidth: 0
 HStem: 422 44<133.424 238.695> 833 44<127.745 234.621>
@@ -14473,7 +14371,7 @@ Validated: 1
 EndChar
 
 StartChar: four.superior
-Encoding: 8308 8308 350
+Encoding: 8308 8308 349
 Width: 363
 VWidth: 0
 HStem: 566 47<78.6609 224 276 331.525>
@@ -14512,7 +14410,7 @@ Validated: 1
 EndChar
 
 StartChar: five.superior
-Encoding: 8309 8309 351
+Encoding: 8309 8309 350
 Width: 379
 VWidth: 0
 HStem: 422 44<71.6409 223.996> 670 21G<71.5 85.5> 673 43<109.34 215.784> 817 52<118.81 292.493>
@@ -14548,7 +14446,7 @@ Validated: 1
 EndChar
 
 StartChar: six.superior
-Encoding: 8310 8310 352
+Encoding: 8310 8310 351
 Width: 369
 VWidth: 0
 HStem: 422 44<130.169 244.959> 648 43<128.161 243.882> 832 45<178.874 285.105>
@@ -14586,7 +14484,7 @@ Validated: 1
 EndChar
 
 StartChar: seven.superior
-Encoding: 8311 8311 353
+Encoding: 8311 8311 352
 Width: 357
 VWidth: 0
 HStem: 817 52<36.5066 274>
@@ -14613,7 +14511,7 @@ Validated: 1
 EndChar
 
 StartChar: eight.superior
-Encoding: 8312 8312 354
+Encoding: 8312 8312 353
 Width: 380
 VWidth: 0
 HStem: 422 44<119.271 254.296> 833 44<126.36 246.822>
@@ -14658,7 +14556,7 @@ Validated: 1
 EndChar
 
 StartChar: nine.superior
-Encoding: 8313 8313 355
+Encoding: 8313 8313 354
 Width: 369
 VWidth: 0
 HStem: 423 45<74.8859 181.094> 608 43<116.118 231.497> 833 44<114.296 228.825>
@@ -14696,7 +14594,7 @@ Validated: 1
 EndChar
 
 StartChar: a.superior
-Encoding: 65559 -1 356
+Encoding: 65559 -1 355
 Width: 321
 VWidth: 0
 HStem: 418 41<97.5639 200.097> 704 43<98.9293 208.971>
@@ -14742,7 +14640,7 @@ Validated: 1
 EndChar
 
 StartChar: b.superior
-Encoding: 65560 -1 357
+Encoding: 65560 -1 356
 Width: 350
 VWidth: 0
 HStem: 422 42<116.469 237.8> 705 42<127.581 239.801>
@@ -14778,7 +14676,7 @@ Validated: 1
 EndChar
 
 StartChar: c.superior
-Encoding: 65561 -1 358
+Encoding: 65561 -1 357
 Width: 308
 VWidth: 0
 HStem: 422 42<119.74 241.128> 703 42<120.061 229.941>
@@ -14811,7 +14709,7 @@ Validated: 1
 EndChar
 
 StartChar: d.superior
-Encoding: 65562 -1 359
+Encoding: 65562 -1 358
 Width: 358
 VWidth: 0
 HStem: 422 40<127.039 228.085> 705 42<121.281 247.028>
@@ -14847,7 +14745,7 @@ Validated: 1
 EndChar
 
 StartChar: e.superior
-Encoding: 65563 -1 360
+Encoding: 65563 -1 359
 Width: 325
 VWidth: 0
 HStem: 422 42<119.501 242.341> 561 38<85 221.155> 704 41<121.506 230.515>
@@ -14885,7 +14783,7 @@ Validated: 1
 EndChar
 
 StartChar: f.superior
-Encoding: 65564 -1 361
+Encoding: 65564 -1 360
 Width: 207
 VWidth: 0
 HStem: 700 41<3.37695 58 107 193.763> 863 42<118.608 223.178>
@@ -14923,7 +14821,7 @@ Validated: 1
 EndChar
 
 StartChar: g.superior
-Encoding: 65565 -1 362
+Encoding: 65565 -1 361
 Width: 368
 VWidth: 0
 HStem: 260 42<82.7439 261.954> 398 49<103.568 274.575> 504 42<119.736 231.038> 703 42<100.699 223.396> 707 51<277.815 347.24>
@@ -14980,7 +14878,7 @@ Validated: 1
 EndChar
 
 StartChar: h.superior
-Encoding: 65566 -1 363
+Encoding: 65566 -1 362
 Width: 350
 VWidth: 0
 HStem: 705 42<130.823 233.486>
@@ -15016,7 +14914,7 @@ Validated: 1
 EndChar
 
 StartChar: i.superior
-Encoding: 65567 -1 364
+Encoding: 65567 -1 363
 Width: 150
 VWidth: 0
 HStem: 713 20G<65.5 81.5> 767 80<47.3296 107.544>
@@ -15049,7 +14947,7 @@ Validated: 1
 EndChar
 
 StartChar: j.superior
-Encoding: 65568 -1 365
+Encoding: 65568 -1 364
 Width: 161
 VWidth: 0
 HStem: 259 39<-62.879 43.5535> 713 20G<74.5 90.5> 767 80<56.3303 110.67>
@@ -15087,7 +14985,7 @@ Validated: 1
 EndChar
 
 StartChar: k.superior
-Encoding: 65569 -1 366
+Encoding: 65569 -1 365
 Width: 330
 VWidth: 0
 HStem: 422 47<243.658 308.7> 705 42<129.501 226.016>
@@ -15137,7 +15035,7 @@ Validated: 1
 EndChar
 
 StartChar: l.superior
-Encoding: 65570 -1 367
+Encoding: 65570 -1 366
 Width: 148
 VWidth: 0
 VStem: 45 50<435.37 929.712>
@@ -15162,7 +15060,7 @@ Validated: 1
 EndChar
 
 StartChar: m.superior
-Encoding: 65571 -1 368
+Encoding: 65571 -1 367
 Width: 533
 VWidth: 0
 HStem: 703 42<132.502 230.8 322.133 418.733>
@@ -15209,7 +15107,7 @@ Validated: 1
 EndChar
 
 StartChar: n.superior
-Encoding: 8319 8319 369
+Encoding: 8319 8319 368
 Width: 358
 VWidth: 0
 HStem: 703 42<135.993 240.889> 720 20G<63 78.5>
@@ -15245,7 +15143,7 @@ Validated: 1
 EndChar
 
 StartChar: o.superior
-Encoding: 65572 -1 370
+Encoding: 65572 -1 369
 Width: 363
 VWidth: 0
 HStem: 422 42<124.149 244.591> 703 42<118.608 238.04>
@@ -15276,7 +15174,7 @@ Validated: 1
 EndChar
 
 StartChar: p.superior
-Encoding: 65573 -1 371
+Encoding: 65573 -1 370
 Width: 361
 VWidth: 0
 HStem: 422 42<109.059 240.156> 703 42<133.752 247.789> 720 20G<63 78.5>
@@ -15313,7 +15211,7 @@ Validated: 1
 EndChar
 
 StartChar: q.superior
-Encoding: 65574 -1 372
+Encoding: 65574 -1 371
 Width: 357
 VWidth: 0
 HStem: 422 42<125.318 235.481> 703 42<121.232 249.974>
@@ -15347,7 +15245,7 @@ Validated: 1
 EndChar
 
 StartChar: r.superior
-Encoding: 65575 -1 373
+Encoding: 65575 -1 372
 Width: 216
 VWidth: 0
 HStem: 696 49<128.538 202.984> 720 20G<61.5 77>
@@ -15379,7 +15277,7 @@ Validated: 1
 EndChar
 
 StartChar: s.superior
-Encoding: 65576 -1 374
+Encoding: 65576 -1 373
 Width: 283
 VWidth: 0
 HStem: 422 42<75.9327 197.533> 703 42<90.6444 195.613>
@@ -15421,7 +15319,7 @@ Validated: 1
 EndChar
 
 StartChar: t.superior
-Encoding: 65577 -1 375
+Encoding: 65577 -1 374
 Width: 241
 VWidth: 0
 HStem: 422 40<125.433 221.582> 698 44<118.657 223.763> 698 41<0.270947 63 116 223.763>
@@ -15459,7 +15357,7 @@ Validated: 1
 EndChar
 
 StartChar: u.superior
-Encoding: 65578 -1 376
+Encoding: 65578 -1 375
 Width: 356
 VWidth: 0
 HStem: 422 42<118.254 223.285>
@@ -15492,7 +15390,7 @@ Validated: 1
 EndChar
 
 StartChar: v.superior
-Encoding: 65579 -1 377
+Encoding: 65579 -1 376
 Width: 298
 VWidth: 0
 HStem: 426 319
@@ -15522,7 +15420,7 @@ Validated: 1
 EndChar
 
 StartChar: w.superior
-Encoding: 65580 -1 378
+Encoding: 65580 -1 377
 Width: 474
 VWidth: 0
 HStem: 426 319
@@ -15565,7 +15463,7 @@ Validated: 1
 EndChar
 
 StartChar: x.superior
-Encoding: 65581 -1 379
+Encoding: 65581 -1 378
 Width: 297
 VWidth: 0
 HStem: 422 323
@@ -15598,7 +15496,7 @@ Validated: 1
 EndChar
 
 StartChar: y.superior
-Encoding: 65582 -1 380
+Encoding: 65582 -1 379
 Width: 300
 VWidth: 0
 HStem: 722 20G<33 43>
@@ -15630,7 +15528,7 @@ Validated: 1
 EndChar
 
 StartChar: z.superior
-Encoding: 65583 -1 381
+Encoding: 65583 -1 380
 Width: 302
 VWidth: 0
 HStem: 424 41<56.1168 246.212> 699 43<42.5162 224.308>
@@ -15664,7 +15562,7 @@ Validated: 1
 EndChar
 
 StartChar: uni00A0
-Encoding: 160 160 382
+Encoding: 160 160 381
 Width: 230
 Flags: W
 LayerCount: 2
@@ -15673,7 +15571,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphennobreak
-Encoding: 8209 8209 383
+Encoding: 8209 8209 382
 Width: 230
 Flags: W
 HStem: 233 61<33.2835 214.671>
@@ -15697,7 +15595,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphentwo
-Encoding: 8208 8208 384
+Encoding: 8208 8208 383
 Width: 230
 Flags: W
 HStem: 233 61<33.2835 214.671>
@@ -15721,7 +15619,7 @@ Validated: 1
 EndChar
 
 StartChar: figurespace
-Encoding: 8199 8199 385
+Encoding: 8199 8199 384
 Width: 535
 Flags: W
 LayerCount: 2
@@ -15730,7 +15628,7 @@ Validated: 1
 EndChar
 
 StartChar: enquad
-Encoding: 8192 8192 386
+Encoding: 8192 8192 385
 Width: 400
 Flags: W
 LayerCount: 2
@@ -15739,7 +15637,7 @@ Validated: 1
 EndChar
 
 StartChar: emquad
-Encoding: 8193 8193 387
+Encoding: 8193 8193 386
 Width: 800
 Flags: W
 LayerCount: 2
@@ -15748,7 +15646,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2002
-Encoding: 8194 8194 388
+Encoding: 8194 8194 387
 Width: 400
 Flags: W
 LayerCount: 2
@@ -15757,7 +15655,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2003
-Encoding: 8195 8195 389
+Encoding: 8195 8195 388
 Width: 800
 Flags: W
 LayerCount: 2
@@ -15766,7 +15664,7 @@ Validated: 1
 EndChar
 
 StartChar: threeperemspace
-Encoding: 8196 8196 390
+Encoding: 8196 8196 389
 Width: 267
 Flags: W
 LayerCount: 2
@@ -15775,7 +15673,7 @@ Validated: 1
 EndChar
 
 StartChar: fourperemspace
-Encoding: 8197 8197 391
+Encoding: 8197 8197 390
 Width: 200
 Flags: W
 LayerCount: 2
@@ -15784,7 +15682,7 @@ Validated: 1
 EndChar
 
 StartChar: uni2006
-Encoding: 8198 8198 392
+Encoding: 8198 8198 391
 Width: 134
 Flags: W
 LayerCount: 2
@@ -15793,7 +15691,7 @@ Validated: 1
 EndChar
 
 StartChar: punctuationspace
-Encoding: 8200 8200 393
+Encoding: 8200 8200 392
 Width: 120
 Flags: W
 LayerCount: 2
@@ -15802,7 +15700,7 @@ Validated: 1
 EndChar
 
 StartChar: thinspace
-Encoding: 8201 8201 394
+Encoding: 8201 8201 393
 Width: 160
 Flags: W
 LayerCount: 2
@@ -15811,7 +15709,7 @@ Validated: 1
 EndChar
 
 StartChar: hairspace
-Encoding: 8202 8202 395
+Encoding: 8202 8202 394
 Width: 80
 Flags: W
 LayerCount: 2
@@ -15820,7 +15718,7 @@ Validated: 1
 EndChar
 
 StartChar: zerowidthspace
-Encoding: 8203 8203 396
+Encoding: 8203 8203 395
 Width: 0
 Flags: W
 LayerCount: 2
@@ -15829,7 +15727,7 @@ Validated: 1
 EndChar
 
 StartChar: uni200C
-Encoding: 8204 8204 397
+Encoding: 8204 8204 396
 Width: 0
 Flags: W
 LayerCount: 2
@@ -15838,7 +15736,7 @@ Validated: 1
 EndChar
 
 StartChar: uni200D
-Encoding: 8205 8205 398
+Encoding: 8205 8205 397
 Width: 0
 Flags: W
 LayerCount: 2
@@ -15847,7 +15745,7 @@ Validated: 1
 EndChar
 
 StartChar: nnbsp
-Encoding: 8239 8239 399
+Encoding: 8239 8239 398
 Width: 160
 Flags: W
 LayerCount: 2
@@ -15856,7 +15754,7 @@ Validated: 1
 EndChar
 
 StartChar: mmspace
-Encoding: 8287 8287 400
+Encoding: 8287 8287 399
 Width: 178
 Flags: W
 LayerCount: 2
@@ -15865,7 +15763,7 @@ Validated: 1
 EndChar
 
 StartChar: ideographicspace
-Encoding: 12288 12288 401
+Encoding: 12288 12288 400
 Width: 650
 Flags: W
 LayerCount: 2
@@ -15874,7 +15772,7 @@ Validated: 1
 EndChar
 
 StartChar: zerowidthjoiner
-Encoding: 65279 65279 402
+Encoding: 65279 65279 401
 Width: 0
 Flags: W
 LayerCount: 2
@@ -15883,7 +15781,7 @@ Validated: 1
 EndChar
 
 StartChar: parenleft.superior
-Encoding: 65585 -1 403
+Encoding: 65585 -1 402
 Width: 234
 VWidth: 0
 VStem: 60 54<458.868 746.99>
@@ -15910,7 +15808,7 @@ Validated: 1
 EndChar
 
 StartChar: parenright.superior
-Encoding: 65586 -1 404
+Encoding: 65586 -1 403
 Width: 219
 VWidth: 0
 VStem: 105 54<458.868 746.99>
@@ -15937,7 +15835,7 @@ Validated: 1
 EndChar
 
 StartChar: plus.superior
-Encoding: 65587 -1 405
+Encoding: 65587 -1 404
 Width: 362
 VWidth: 0
 HStem: 568 55<39.189 159 202 322.811>
@@ -15971,7 +15869,7 @@ Validated: 1
 EndChar
 
 StartChar: hyphen.superior
-Encoding: 65588 -1 406
+Encoding: 65588 -1 405
 Width: 170
 VWidth: 0
 HStem: 575 51<23.1897 158.765>
